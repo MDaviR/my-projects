@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class squareTriangle {
+public class SquareTriangle {
 public static void main(String[]args){
 
     Scanner sc = new Scanner(System.in);
