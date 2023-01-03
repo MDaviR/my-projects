@@ -1,6 +1,6 @@
 import java.util.Locale;
 import java.util.Scanner; 
-public class whoareyou { 
+public class Whoareyou { 
 public static void main(String[] args) {
 
  Locale.setDefault(Locale.US);
