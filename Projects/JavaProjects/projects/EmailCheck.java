@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class EmailCheck {
-public static <FacesMessage, UIInput> void main(String[] args) {
+public static void main(String[] args) {
 
     String email;
     Scanner sc = new Scanner(System.in);
