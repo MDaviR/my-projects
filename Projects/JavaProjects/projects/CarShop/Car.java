@@ -69,10 +69,10 @@ public class Car {
 	
 	
 	public String engineOn() {
-			if ( this.engineOn) {
+			if ( this.engineOn) {//Start the engine.
 				return "The engine of " + this.model + " it was already on.";
 			} else { 
-				this.engineOn = true; //Starting the engine.
+				this.engineOn = true;
 				return "The engine of " + model + " was started now. ";
 			}
 		}
@@ -112,7 +112,7 @@ public class Car {
 
 	}
 
-	// Third custom constructor method this.motorligado is below of
+	// Third custom constructor method
 	public Car(String manufacturer, String model, int year) {
 		super();
 		this.manufacturer = manufacturer;
