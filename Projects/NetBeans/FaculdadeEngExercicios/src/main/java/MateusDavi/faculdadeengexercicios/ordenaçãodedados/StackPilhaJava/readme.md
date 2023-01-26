@@ -4,4 +4,4 @@ Comandos: Push(obj), Pop(), Peek().
 
 Lifo = Last in first out.
 
-|topo = -1  (vazia)| |topo = 0 (contém um elemento)| |topo = 2 (contém 3 elementos)
+|topo = -1  (vazia)| |topo = 0 (contém um elemento)| |topo = 2 (contém 3 elementos)|
